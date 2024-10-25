@@ -19,7 +19,6 @@
   <summary>More about me</summary>
 
 - **Bug Hunter** | **Security Researcher**
-- Experienced in **Pentesting** and **Red Teaming**
 - Continuously improving my knowledge of **Website Vulnerabilities**
 - Currently learning **everything**
 - Reach me at **0xMzk@proton.me**
