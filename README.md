@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/e5cbdee7854795385c42960346a48377/tumblr_o7cw5jqcWG1rigtsko2_540.gif" width="1080" height="480" alt="Hacker GIF">
+  <img src="https://64.media.tumblr.com/e5cbdee7854795385c42960346a48377/tumblr_o7cw5jqcWG1rigtsko2_540.gif" width="1080" height="400" alt="Hacker GIF">
 </p>
 
 <div align="center">
