@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="Waving Hand"/>
 </h2>
 
-**[Miyazaki](https://0xmzk.xyz)** — a hacker and Security Researcher on a journey to become a Malware Analyst and Mobile Pentester. Technology has always captivated me, and diving into cybersecurity has only deepened that fascination. From malware analysis to bug hunting, I aim to build expertise that will empower me to safeguard digital assets and contribute to the community’s security.
+**[Miyazaki](https://0xmzk.xyz)** here a hacker and Security Researcher. I'm on a journey to become a Malware Analyst and Mobile Pentester. Technology has always captivated me, and diving into cybersecurity has only deepened that fascination. From malwares to bug hunting, I aim to build expertise that will empower me to safeguard company assets and contribute to the community’s security.
 
 <details>
   <summary>More about me</summary>
