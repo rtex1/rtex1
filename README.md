@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="" width="1080" height="400" alt="Hacker GIF">
-</p>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
