@@ -34,5 +34,4 @@
 </details>
 
 <p align="center">
-  <b><i>"Born to Hack."</i></b>
 </p>
